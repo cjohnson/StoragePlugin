@@ -1,5 +1,5 @@
 name: StoragePlugin
-description: A collection of quality of life utilities for players and administrators.
+description: A collection of quality of life storage utilities for players and administrators.
 version: 1.0.0-rev001-SNAPSHOT
 authors: [cjohnson, schelcc]
 website: https://github.com/cjohnson/StoragePlugin
