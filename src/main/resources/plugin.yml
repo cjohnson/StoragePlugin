@@ -1,0 +1,17 @@
+name: StoragePlugin
+description: A collection of quality of life utilities for players and administrators.
+version: 1.0.0-rev001-SNAPSHOT
+authors: [cjohnson, schelcc]
+website: https://github.com/cjohnson/StoragePlugin
+
+main: org.cjohnson.storageplugin.StoragePlugin
+api-version: 1.16
+
+load: POSTWORLD
+prefix: StoragePlugin
+
+commands:
+  storageplugin:
+    description: The main command for the StoragePlugin plugin.
+    aliases: [stp]
+    usage: /<command>
